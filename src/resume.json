@@ -16,13 +16,13 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "xxx",
+        "network": "LinkedIn",
+        "username": "rami-abu-hamad",
         "url": ""
       },
       {
         "network": "Github",
-        "username": "xxx",
+        "username": "donrami",
         "url": ""
       }
     ]
@@ -116,7 +116,7 @@
         "Python",
         "HTML",
         "CSS",
-        "Javascript", 
+        "JavaScript", 
         "React",
         "Node",
         "MySQL",
