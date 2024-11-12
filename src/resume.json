@@ -1,0 +1,162 @@
+{
+  "basics": {
+    "name": "Rami Abu-Hamad",
+    "label": "Engineer",
+    "picture": "https://storage.rxresu.me/clykjx4as3fcavrn3pnedeoid/pictures/clykjx4as3fcavrn3pnedeoid.jpg",
+    "email": "rami@abu-hamad.de",
+    "phone": "+49 152 04130310",
+    "website": "www.abu-hamad.de",
+    "summary": "I am an engineer with extensive technical expertise through multiple roles in product development, software consultancy, and customer support.",
+    "location": {
+      "address": "",
+      "postalCode": "1234",
+      "city": "Mannheim",
+      "countryCode": "Germany",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "xxx",
+        "url": ""
+      },
+      {
+        "network": "Github",
+        "username": "xxx",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Volume Graphics GmbH – Heidelberg, Germany (hybrid)",
+      "position": "Technical Solutions Expert",
+      "website": "https://www.volumegraphics.com/",
+      "startDate": "03/2020",
+      "endDate": "",
+      "summary": "2nd-Level-Support for international customers in English and German via E-Mail, Support-Hotline and remote assistance.|Development of tailored VGSTUDIO MAX and VGMETROLOGY software solutions for customers in the industry, science and research.|Installation, configuration and troubleshooting of Volume Graphics Software and 3rd party software under Windows and Linux.|Conception and launch of a User Community platform, including a growing Knowledge Base and User Forum.|Bug-reporting and feature request creation in Jira.|Support with creating software manuals and technical documentation.|Conduction of User Acceptance Tests.|Presentation of new features at user conferences and trade shows.",
+      "highlights": []
+    },
+    {
+      "company": "CENIT AG – Stuttgart, Germany",
+      "position": "Software Consultant",
+      "website": "https://www.cenit.com/",
+      "startDate": "05/2019",
+      "endDate": "10/2019",
+      "summary": "Consultancy and technical support for 3DCS application.|Conducting pilot projects and user training.|Active participation in user meetings.",
+      "highlights": []
+    },    
+    {
+      "company": "AKKA Technologies GmbH – Sindelfingen, Germany",
+      "position": "Lead Engineer",
+      "website": "https://www.akkodis.com/",
+      "startDate": "11/2017",
+      "endDate": "02/2019",
+      "summary": "Management of tolerance working groups and development of tolerance specifications for system components.|Partnering with customers to optimize assembly processes based on tolerance analysis.|Use of the Smaragd PLM system for managing and analyzing technical data.",
+      "highlights": []
+    },
+    {
+      "company": "Magna Car Top Systems GmbH – Bietigheim-Bissingen, Germany",
+      "position": "Various roles",
+      "website": "https://www.magna.com/products",
+      "startDate": "05/2011",
+      "endDate": "10/2017",
+      "summary": "Data Manager / PDM Expert (October 2015 – October 2017)>Responsible for the integrity of the design data and maintenance in SmarTeam>Securing the data exchange of design and development data>Conducting data validation workshops|Standard Parts Coordinator (August 2014 – December 2016)>Design of new standard and norm parts with CATIA and CADENAS PartDesigner>Monitoring of the release process until sampling and approval>Administration of CADENAS PARTdataManager|Project Engineer (May 2011 – October 2015)>Creation of tolerance specifications and assembly instructions>Performing tolerance calculations and analyses for kinematic roof systems>Leading tolerance working groups",
+      "highlights": []
+    },
+    {
+      "company": "Altran – Fellbach, Germany",
+      "position": "Project Lead",
+      "website": "",
+      "startDate": "04/2010",
+      "endDate": "04/2011",
+      "summary": "Customer project support in the area of digital engineering and simulation.>Reference: Carl Zeiss SMT|Creation and inspection of technical drawings. Consulting for functional tolerancing and drawing entry as well as 1D tolerance chain analysis.>Reference: ThyssenKrupp Presta AG - Tolerance calculation of vehicle steering systems",
+      "highlights": []
+    },
+    {
+      "company": "RLE International – Cologne, Germany (Resident engineer at Daimler AG, Sindelfingen)",
+      "position": "Project Engineer",
+      "website": "",
+      "startDate": "01/2008",
+      "endDate": "03/2010",
+      "summary": "Conducting of 3D tolerance calculations and analyses of the entire vehicle using 3DCS and VisVSA.|Evaluating and documenting the calculation results and developing constructive optimizations.|Providing support in tolerance working groups.",
+      "highlights": []
+    }                
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Aachen University of Applied Sciences - Jülich, Germany",
+      "area": "Energy Systems",
+      "studyType": "Master of Science",
+      "startDate": "02/2004",
+      "endDate": "09/2007",
+      "gpa": "1,7",
+      "courses": []
+    },
+    {
+      "institution": "Hashemite University - Zarqa, Jordan",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "02/1999",
+      "endDate": "02/2004",
+      "gpa": "3.55",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Front End Development",
+      "level": "Master",
+      "keywords": [
+        "Bash",
+        "Powershell",
+        "Python",
+        "HTML",
+        "CSS",
+        "Javascript", 
+        "React",
+        "Node",
+        "MySQL",
+        "Git",
+        "Confluence",
+        "Jira",
+        "3DCS Analyst",
+        "CATIA V5",
+        "VGSTUDIO MAX",
+        "VGMETROLOGY",
+        "FlexNet Publisher",
+        "Teamcenter",
+        "CADENAS PARTSolutions",
+        "Telligent"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Advanced, C1 level"
+    },
+    {
+      "language": "German",
+      "fluency": "Advanced, C1 level"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Guitar",
+      "keywords": []
+    }
+  ],
+  "references": []
+}

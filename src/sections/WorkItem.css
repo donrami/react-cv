@@ -1,0 +1,14 @@
+.workItem ul {
+    list-style-type: disc; /* Explicit bullet point symbol */
+    list-style-position: outside;
+    padding-left: 30px; /* Adjusts the bullet point position */    
+  }
+  
+  .workItem ul ul {
+    margin-top: 8px;
+  }
+
+  .workItem ul li {
+    margin-bottom: 0.5em; /* Optional: adds space between list items */
+  }
+  
